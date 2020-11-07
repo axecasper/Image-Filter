@@ -20,3 +20,7 @@
 * Image Segmentation Applier
 
 ---
+
+<p align="center"><img src="https://github.com/axecasper/Image-Filter/blob/main/source_images/poster61%20(1).jpg" width="100%"></p>
+
+---
