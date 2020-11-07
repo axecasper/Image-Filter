@@ -1,7 +1,11 @@
 ## Image-Filter
 
+---
+
 ### Abstract:
-* Its a open source image filter code writen with python when I was second year student in university.
+* Its an open source image filter code writen with python when I was second year student in university.
+
+---
 
 **Code's Functions:** 
 * Gray scale Converter 
@@ -14,3 +18,5 @@
 * Smoothing the Image
 * Changing Brightness of the Image
 * Image Segmentation Applier
+
+---
