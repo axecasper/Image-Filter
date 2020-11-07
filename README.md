@@ -3,7 +3,7 @@
 ---
 
 ### Abstract:
-* Its an open source image filter code writen with python when I was second year student in university.
+* Its an open source image filter code writen with python based on opencv2 library during when I was second year student in university.
 
 ---
 
